@@ -68,4 +68,4 @@
 
 
     - name: Get Key From Server
-      command: "r1soft-setup --get-key http://104.248.112.182:8080"
+      command: "r1soft-setup --get-key http://backup.mydevop.com:8080"
